@@ -1,0 +1,210 @@
+{
+  "docfx_version": "2.81.0+ba844df625370a6bd7c1ecab0d0ec4d1d9128ac4",
+  "source_base_path": "/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab04-gabrielacohailaalvaradoe/si784-2026-ii-si784-2026-ii-u2-lab04-gabrielacohailaalvaradoe/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Controllers.CartController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Controllers.CartController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Controllers.CartController",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Controllers.CartController.yml\" sourcestartlinenumber=\"1\">Controlador que gestiona el pago y el envío del carrito de compras.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Controllers.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Controllers",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Models.IAddressInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Models.IAddressInfo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Models.IAddressInfo",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Models.IAddressInfo.yml\" sourcestartlinenumber=\"1\">Datos de envío del cliente.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Models.ICard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Models.ICard.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Models.ICard",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Models.ICard.yml\" sourcestartlinenumber=\"1\">Tarjeta de pago utilizada en el cobro.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Models.ICartItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Models.ICartItem.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Models.ICartItem",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Models.ICartItem.yml\" sourcestartlinenumber=\"1\">Elemento incluido en el carrito de compras.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Models.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Models",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Services.ICartService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Services.ICartService.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Services.ICartService",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Services.ICartService.yml\" sourcestartlinenumber=\"1\">Servicio que expone el contenido del carrito de compras.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Services.IDiscountService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Services.IDiscountService.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Services.IDiscountService",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Services.IDiscountService.yml\" sourcestartlinenumber=\"1\">Servicio que aplica un descuento sobre el monto total de la operación.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Services.IPaymentService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Services.IPaymentService.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Services.IPaymentService",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Services.IPaymentService.yml\" sourcestartlinenumber=\"1\">Servicio encargado de cobrar el pago de la compra.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Services.IShipmentService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Services.IShipmentService.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Services.IShipmentService",
+      "Summary": "<p sourcefile=\"api/EcommerceApp.Api.Services.IShipmentService.yml\" sourcestartlinenumber=\"1\">Servicio encargado del envío de los productos comprados.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EcommerceApp.Api.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EcommerceApp.Api.Services.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "EcommerceApp.Api.Services",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
